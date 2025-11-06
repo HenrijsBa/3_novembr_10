@@ -17,3 +17,4 @@ elif D == 0:
     print(f"D = {D}, viena sakne: x = {x}") 
 else:
     print(f"D = {D}, nav reālu sakņu.")
+
